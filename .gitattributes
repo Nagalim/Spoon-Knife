@@ -1,1 +1,1 @@
-*.conf eol=crlf
+windows/*.conf eol=crlf
